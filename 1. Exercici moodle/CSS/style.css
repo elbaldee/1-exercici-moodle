@@ -1,0 +1,21 @@
+h1,h2{
+    color: orangered;
+}
+.Barra_nav {
+    text-decoration: none;
+    color: orangered;
+}
+.vinculo {
+    color: orangered;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 12px;
+}
+p,li {
+    font-size: 14px;
+}
+header,main {
+    border: 1px solid rgb(241, 238, 238);
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
